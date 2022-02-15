@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+
+# Recipes
+{% for page in site.pages %}
+  {% if page.categories contains 'recipe' %}
+  [ {{page.title}} ]( {{ page.url }} )
+  {% endif %}
+{% endfor %}
+
