@@ -1,15 +1,14 @@
 ---
 layout: page
+name: Shortbread
 title:  "Shortbread"
-date:   2022-02-15 20:48:27 +0100
-categories: recipe
 ---
 
 Set oven to 180 degrees C.
 
 ![Baking Powder](/img/bakingpowder.jpeg ){:height="200px" }
 
-Ingredients:
+Ingredients:s
 * 45 g flour
 * 30 g butter
 * 15 g sugar
