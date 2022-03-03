@@ -1,16 +1,9 @@
 ---
-layout: page
+layout: recipes
 name: Shortbread
 title:  "Shortbread"
 image: /img/shortbread.jpg
 ---
-{::options parse_block_html="true" /}
-
-<p align="center">
-
-![page.name]( {{page.image}} ){:height="200px" }
-
-</p>
 Set oven to 180 degrees C.
 
 ![Baking Powder](/img/bakingpowder.jpeg ){:height="200px" }

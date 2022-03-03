@@ -6,5 +6,4 @@ layout: home
 ---
 
 {% for recipe in site.recipes %}
- ![recipe.name]( {{recipe.image}} ){:height="40px" } [ {{recipe.name}} ]( {{ recipe.url }} )
-{% endfor %}
+| ![recipe.name]( {{recipe.image}} ){:height="40px" } | [ {{recipe.name}} ]( {{ recipe.url }}) | {% endfor %}
