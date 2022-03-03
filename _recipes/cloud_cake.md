@@ -3,8 +3,11 @@ layout: page
 name: Chocolate Cloud Cake
 title: "Chocolate Cloud Cake"
 ---
+<p align="center">
 
-<p align="center">![Chocolate cloud cake](/img/cloudcake.jpg){:height="300px"}</p>
+  ![Chocolate cloud cake](/img/cloudcake.jpg){:height="300px"}
+
+</p>
 
 Set oven to 180 degrees C.
 
