@@ -4,7 +4,7 @@ name: Chocolate Cloud Cake
 title: "Chocolate Cloud Cake"
 ---
 
-<p align="center">![Chocolate cloud cake](/img/cloudcake.png){:height="300px"}</p>
+<p align="center">![Chocolate cloud cake](/img/cloudcake.jpg){:height="300px"}</p>
 
 Set oven to 180 degrees C.
 
