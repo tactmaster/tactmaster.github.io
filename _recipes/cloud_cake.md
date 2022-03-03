@@ -2,13 +2,14 @@
 layout: page
 name: Chocolate Cloud Cake
 title: "Chocolate Cloud Cake"
+image: /img/cloudcake.jpg
 ---
 
 {::options parse_block_html="true" /}
 
 <p align="center">
 
-  ![Chocolate cloud cake](/img/cloudcake.jpg){:height="300px"}
+  ![page.name]( {{page.image}} ){:height="200px" }
 
 </p>
 
