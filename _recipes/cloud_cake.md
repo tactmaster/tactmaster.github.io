@@ -9,7 +9,7 @@ Set oven to 180 degrees C.
 
 Ingredients:
 
-| ![Dark chocolate](/img/dark_chocolate.png){:height="100px"} | ![Butter](/img/butter.png){:height="100px"} | ![Egg](/img/egg.jpg){:height="200px"} |
+| ![Dark chocolate](/img/darkchocolate.jpg){:height="200px"} | ![Butter](/img/butter.jpg){:height="200px"} | ![Egg](/img/egg.jpg){:height="200px"} |
 | 250 g dark chocolate | 125 g butter | 2 eggs + 4 yolks + 4 whites |
 | ![Sugar](/img/sugar.jpg){:height="200px"} | ![Cream](/img/cream.jpg){:height="200px"} | ![Vanilla](/img/vanilla.jpg){:height="200px"} |
 | 75 g + 100 g sugar | 500 ml whipping cream | 1 teaspoon vanilla extract |
