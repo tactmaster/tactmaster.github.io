@@ -9,7 +9,7 @@ Set oven to 200 degrees C.
 
 Ingredients:
 
-| ![Butter](/img/butter.jpg){:height="100px"} | ![Ricotta](/img/ricotta.png){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
+| ![Butter](/img/butter.jpg){:height="100px"} | ![Ricotta](/img/ricotta.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
 | 50 g butter | 250 g ricotta | 4 eggs |
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} |
 | 200 ml milk | 50 g sugar | 150 g flour |
