@@ -26,6 +26,7 @@ Method:
 7. Bake for 25-30 minutes.
 
 For the lemon butter:
+
 | ![Butter](/img/butter.png){:height="100px"} | ![Icing sugar](/img/icingsugar.jpg){:height="100px"} | ![Lemon](/img/lemon.jpg){:height="100px"} |
 | 100 g softened butter | 30 g icing sugar | Zest and juice from 1 lemon |
 
