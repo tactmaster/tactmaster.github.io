@@ -27,7 +27,7 @@ Method:
 
 For the lemon butter:
 
-| ![Butter](/img/butter.png){:height="100px"} | ![Icing sugar](/img/icingsugar.jpg){:height="100px"} | ![Lemon](/img/lemon.jpg){:height="100px"} |
+| ![Butter](/img/butter.jpg){:height="100px"} | ![Icing sugar](/img/icingsugar.jpg){:height="100px"} | ![Lemon](/img/lemon.jpg){:height="100px"} |
 | 100 g softened butter | 30 g icing sugar | Zest and juice from 1 lemon |
 
 8. Beat softened butter, icing sugar, lemon zest and juice together.
