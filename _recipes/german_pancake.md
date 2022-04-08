@@ -5,12 +5,12 @@ title: "German Pancake"
 image: /img/germanpancake.jpg
 ---
 
-Set oven to 215 degrees C.
+Set oven to 215°C.
 
 Ingredients:
 
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} | ![Milk](/img/milk.jpg){:height="100px"} |
-| 70 g butter | 230 ml milk | 6 eggs |
+| 70 g butter | 6 eggs | 230 ml milk |
 | ![Flour](/img/flour.jpg){:height="100px"} | ![Vanilla](/img/vanilla.jpg){:height="100px"} | |
 | 120 g flour | 1 teaspoon vanilla | |
 
