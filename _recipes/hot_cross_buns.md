@@ -5,8 +5,6 @@ title: "Hot Cross Buns"
 image: /img/hotcrossbuns.jpg
 ---
 
-Set oven to 215 degrees C.
-
 Ingredients:
 
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} | ![Bread flour](/img/breadflour.jpg){:height="100px"} |
