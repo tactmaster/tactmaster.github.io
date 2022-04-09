@@ -11,7 +11,7 @@ Ingredients:
 
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} | ![Bread flour](/img/breadflour.jpg){:height="100px"} |
 | 300 ml milk | 50 g butter | 500 g strong bread flour |
-| ![Sugar](/img/sugar.jpg){:height="100px"} | ![Yeast](/img/yeast.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
+| ![Sugar](/img/sugar.jpg){:height="100px"} | ![Sweet yeast](/img/sweetyeast.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
 | 75 g sugar | 7g sachet yeast | 1 egg |
 | ![Raisins](/img/raisins.jpg){:height="100px"} | ![Orange](/img/orange.jpg){:height="100px"} | ![Apple](/img/apple.jpg){:height="100px"} |
 | 125 g raisins | 1 orange zest | 1 apple (peeled and finely chopped) |
