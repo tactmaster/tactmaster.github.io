@@ -10,9 +10,9 @@ Set oven to 215°C.
 Ingredients:
 
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} | ![Milk](/img/milk.jpg){:height="100px"} |
-| 70 g butter | 6 eggs | 230 ml milk |
+| 70 g butter (23 g for granny) | 6 eggs (2 for granny) | 230 ml milk (77 ml for granny) |
 | ![Flour](/img/flour.jpg){:height="100px"} | ![Vanilla](/img/vanilla.jpg){:height="100px"} | |
-| 120 g flour | 1 teaspoon vanilla | |
+| 120 g flour (40 g for granny) | 1 teaspoon vanilla (1/3 teaspoon for granny) | |
 
 Method:
 1. Put butter in tin.
