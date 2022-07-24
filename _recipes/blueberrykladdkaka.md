@@ -20,4 +20,4 @@ Method:
 1. Mix all ingredients except blueberries.
 2. Carefully fold in blueberries.
 3. Pour mixture into a 20 cm cake tin.
-4. Bake for 13-15 minutes.
+4. Bake for 20-22 minutes.
