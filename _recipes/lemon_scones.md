@@ -11,7 +11,7 @@ Ingredients:
 
 | ![Flour](/img/flour.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} | ![Bicarb](/img/bicarb.jpg){:height="100px"} |
 | 225 g plain flour | 55 g butter | 0.5 teaspoon bicarb |
-| ![Cream of tarter](/img/creamoftartar.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Olive oil](/img/oliveoil.jpg){:height="100px"} |
+| ![Cream of tartar](/img/creamoftartar.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Olive oil](/img/oliveoil.jpg){:height="100px"} |
 | 1 teaspoon cream of tartar | 28 g sugar | 2 teaspoons olive oil |
 | ![Lemon juice](/img/lemonjuice.jpg){:height="100px"} | ![Lemon zest](/img/lemon.jpg){:height="100px"} |  |
 | 75 ml lemon juice | Zest of 0.5 of a lemon |  |
