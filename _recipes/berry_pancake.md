@@ -14,7 +14,7 @@ Ingredients:
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} |
 | 200 ml milk | 50 g sugar | 150 g flour |
 | ![Baking powder](/img/bakingpowder.jpg){:height="100px"} | ![Frozen berries](/img/frozenberries.jpg){:height="100px"} |   |
-| 75 g + 100 g sugar | 500 ml whipping cream |   |
+| 1.5 teaspoons baking powder | big handful of berries |   |
 
 Method:
 1. Put butter in tin.
