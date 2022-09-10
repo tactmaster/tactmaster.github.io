@@ -10,9 +10,9 @@ Preheat oven to 110°C
 Ingredients:
 
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Light muscovado sugar](/img/lightmuscovadosugar.jpg){:height="100px"} | ![Syrup](/img/syrup.jpg){:height="100px"} |
-| 50 g butter | 38 g soft brown sugar | 1 tablespoons syrup |
+| 50 g butter | 38 g soft brown sugar | 1 tablespoon syrup |
 | ![Oats](/img/oats.jpg){:height="100px"} |  |  |
-| 100g g oats |  |  |
+| 100 g oats |  |  |
 
 Method:
 1. Melt butter in a large saucepan over a low heat.
