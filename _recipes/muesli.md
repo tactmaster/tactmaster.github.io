@@ -10,7 +10,7 @@ Preheat oven to 150°C
 Ingredients:
 
 | ![Water](/img/water.jpg){:height="100px"} | ![Oil](/img/oil.jpg){:height="100px"} | ![Honey](/img/honey.jpg){:height="100px"} |
-| 100 dl water | 3 tablespoons oil | 2 tablespoons honey |
+| 1 dl water | 3 tablespoons oil | 2 tablespoons honey |
 | ![Oats](/img/oats.jpg){:height="100px"} | ![Coconut](/img/coconut.jpg){:height="100px"} | ![Sunflower seeds](/img/sunflowerseeds.jpg){:height="100px"} |
 | 5 dl oats | 1 dl coconut | 0.5 dl sunflower seeds |
 | ![Flaked almonds](/img/flakedalmonds.jpg){:height="100px"} | ![Raisins](/img/raisins.jpg){:height="100px"} | ![Apricots](/img/apricots.jpg){:height="100px"} |
