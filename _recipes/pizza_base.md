@@ -2,7 +2,7 @@
 layout: recipes
 name: Pizza Base
 title: "Pizza Base"
-image: /img/pizzabase.jpg
+image: /img/doughballs.jpg
 ---
 
 Set oven to 230°C.
