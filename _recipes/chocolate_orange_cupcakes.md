@@ -22,7 +22,7 @@ Ingredients for chocolate cupcakes:
 | 150 g sugar | 150 g butter | 50 g dark chocolate |
 | ![Egg](/img/egg.jpg){:height="100px"} | ![Sour cream](/img/sourcream.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} |
 | 3 eggs | 80 g sour cream | 150 g plain flour |
-| ![Baking powder](/img/baking powder.jpg){:height="100px"} | ![Cocoa powder](/img/cocoapowder.jpg){:height="100px"} | ![Salt](/img/salt.jpg){:height="100px"} |
+| ![Baking powder](/img/bakingpowder.jpg){:height="100px"} | ![Cocoa](/img/cocoa.jpg){:height="100px"} | ![Salt](/img/salt.jpg){:height="100px"} |
 | 2 teaspoons baking powder | 60 g cocoa powder | 1/2 teaspoon salt |
 | ![Milk](/img/milk.jpg){:height="100px"} |  |  |
 | 100 ml milk |  |  |
@@ -42,7 +42,7 @@ Ingredients for icing:
 
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Orange chocolate](/img/orangechocolate.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} |
 | 75 ml milk | 50 g orange chocolate | 150 g butter |
-| ![Icing sugar](/img/icingsugar.jpg){:height="100px"} | ![Cocoa powder](/img/cocoapowder.jpg){:height="100px"} |  |
+| ![Icing sugar](/img/icingsugar.jpg){:height="100px"} | ![Cocoa](/img/cocoa.jpg){:height="100px"} |  |
 | 400 g icing sugar | 50 g cocoa powder |  |
 
 Method:
