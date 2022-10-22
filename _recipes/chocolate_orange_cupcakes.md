@@ -16,6 +16,8 @@ Method:
 3. Whisk in butter.
 4. Leave to cool and put in a squeezy bottle.
 
+
+
 Ingredients for chocolate cupcakes:
 
 | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} | ![Dark chocolate](/img/darkchocolate.jpg){:height="100px"} |
@@ -37,6 +39,8 @@ Method:
 7. Put into 16 cupcake cases.
 8. Bake for 18 minutes.
 9. Once cooled, inject orange caramel into the middle of each one.
+
+
 
 Ingredients for icing:
 
