@@ -7,11 +7,11 @@ image: /img/brownies.jpg
 
 Preheat oven to 150°C
 
-| ![Butter](/img/butter.jpg){:height="100px"} | ![Dark chocolate](/img/darkchocolate.jpg){:height="100px"} | ![Eggs](/img/eggs.jpg){:height="100px"} |
+| ![Butter](/img/butter.jpg){:height="100px"} | ![Dark chocolate](/img/darkchocolate.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
 | 200 g butter | 200 g chocolate | 4 eggs |
 | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} | ![Baking powder](/img/bakingpowder.jpg){:height="100px"} |
 | 345 g sugar | 60 g plain flour | 1 teaspoon baking powder |
-| ![Cocoa powder](/img/cocoapowder.jpg){:height="100px"} | ![Vanilla](/img/vanilla.jpg){:height="100px"} |  |
+| ![Cocoa](/img/cocoa.jpg){:height="100px"} | ![Vanilla](/img/vanilla.jpg){:height="100px"} |  |
 | 80 g cocoa powder | 1 teaspoon vanilla |  |
 
 Method:
