@@ -3,6 +3,7 @@ layout: recipes
 name: Apple & Cinnamon Buns
 title: "Apple & Cinnamon Buns"
 image: /img/applecinnamonbuns.jpg
+categories: sweet
 ---
 
 Preheat oven to 180°C
