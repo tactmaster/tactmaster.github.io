@@ -34,7 +34,9 @@ plugins:
 
 markdown: kramdown
 
-#categories: [recipes]
+port: 50012
+
+categories: [sweet,savoury]
 collections:
   recipes:
     output: true
