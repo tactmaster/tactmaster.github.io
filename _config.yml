@@ -34,8 +34,6 @@ plugins:
 
 markdown: kramdown
 
-port: 50012
-
 categories: [sweet,savoury]
 collections:
   recipes:
