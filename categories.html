@@ -4,9 +4,19 @@ permalink: /categories/
 title: Categories
 ---
 
+<!-- create categories array-->
+{% assign categories_array = "" | split:"|" %}
+
+<!--Add each unique 'my_collection' category to the array-->
+{% for post in site.my_collection %}
+    {% for category in post.categories %}
+        {% assign categories_array = categories_array | push: category | uniq %}
+    {% endfor %}
+{% endfor %}
+
 
 <div id="archives">
-{% for category in site.recipes.categories %}
+{% for category in categories_array %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
