@@ -18,7 +18,7 @@ For filling and topping:
 
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Cinnamon](/img/cinnamon.jpg){:height="100px"} |
 | 75 g butter | 45 g sugar | 1 teaspoon cinnamon |
-| ![Egg](/img/egg.jpg){:height="100px"} | ![Pearl sugar](/img/pearlsugar.jpg){:height="100px"} | ![Salt](/img/salt.jpg){:height="100px"} |
+| ![Egg](/img/egg.jpg){:height="100px"} | ![Pearl sugar](/img/pearlsugar.jpg){:height="100px"} |  |
 | Beaten egg | Pearl sugar |  |
 
 Method:
