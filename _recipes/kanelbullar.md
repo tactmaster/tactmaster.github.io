@@ -6,6 +6,7 @@ image: /img/kanelbullar.jpg
 ---
 
 For dough:
+
 | ![Milk](/img/milk.jpg){:height="100px"} | ![Yeast](/img/sweetyeast.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} |
 | 250 ml milk | 10 g dried yeast | 75 g butter |
 | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Cardamom](/img/cardamom.jpg){:height="100px"} | ![Salt](/img/salt.jpg){:height="100px"} |
@@ -14,6 +15,7 @@ For dough:
 | 400 g bread flour |  |  |
 
 For filling and topping:
+
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Cinnamon](/img/cinnamon.jpg){:height="100px"} |
 | 75 g butter | 45 g sugar | 1 teaspoon cinnamon |
 | ![Egg](/img/egg.jpg){:height="100px"} | ![Pearl sugar](/img/pearlsugar.jpg){:height="100px"} | ![Salt](/img/salt.jpg){:height="100px"} |
