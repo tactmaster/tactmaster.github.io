@@ -34,9 +34,10 @@ plugins:
 
 markdown: kramdown
 
-categories: [sweet,savoury]
 collections:
-  recipes:
+  sweet:
+    output: true
+  savory:
     output: true
 # Exclude from processing.
 # The following items will not be processed, by default.

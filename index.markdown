@@ -3,7 +3,16 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: All
+
 ---
 
-{% for recipe in site.recipes %}
-| ![recipe.name]( {{recipe.image}} ){:height="40px" } | [ {{recipe.name}} ]( {{ recipe.url }}) | {% endfor %}
+### Sweet
+
+{% for sweet in site.sweet %}
+| ![sweet.name]( {{sweet.image}} ){:height="40px" } | [ {{sweet.name}} ]( {{ sweet.url }}) | {% endfor %}
+
+### Savory
+
+{% for savory in site.savory %}
+| ![savory.name]( {{savory.image}} ){:height="40px" } | [ {{savory.name}} ]( {{ savory.url }}) | {% endfor %}
