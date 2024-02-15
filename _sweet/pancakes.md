@@ -4,6 +4,7 @@ name: Pancakes
 title: "Pancakes"
 image: /img/pancakes.jpg
 ---
+DO NOT DOUBLE THIS AGAIN!!! IT'S WAY TOO MUCH!
 
 Ingredients:
 
