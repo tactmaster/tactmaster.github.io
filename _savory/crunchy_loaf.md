@@ -1,6 +1,6 @@
 ---
 layout: recipes
-name: Crunchy Loag
+name: Crunchy Loaf
 title: "Crunchy Loaf"
 image: /img/crunchyloaf.jpg
 ---
