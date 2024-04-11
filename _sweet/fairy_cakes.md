@@ -9,8 +9,8 @@ For cakes:
 
 | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Butter](/img/butter.jpg){:height="100px"} | ![Egg](/img/egg.jpg){:height="100px"} |
 | 55 g sugar | 55 g butter | 1 egg |
-| ![Flour](/img/flour.jpg){:height="100px"} | ![Baking powder](/img/bakingpowder.jpg){:height="100px"} | ![Yoghurt](/img/yoghurt.jpg){:height="100px"} |
-| 65 g plain flour | 1 teaspoon baking powder | 1 tablespoon yoghurt |
+| ![Flour](/img/flour.jpg){:height="100px"} | ![Baking powder](/img/bakingpowder.jpg){:height="100px"} | ![Turkish yoghurt](/img/turkishyoghurt.jpg){:height="100px"} |
+| 65 g plain flour | 1 teaspoon baking powder | 1 tablespoon Turkish yoghurt |
 | ![Vanilla](/img/vanilla.jpg){:height="100px"} |  |  |
 | 0.5 teaspoon vanilla extract |  |  |
 
