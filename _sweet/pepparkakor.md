@@ -10,7 +10,7 @@ image: /img/pepparkakor.jpg
 | ![Ginger](/img/ginger.jpg){:height="100px"} | ![Cinnamon](/img/cinnamon.jpg){:height="100px"} | ![Cardamom](/img/cardamom.jpg){:height="100px"} |
 | 0.5 tablespoon ginger | 0.5 tablespoon cinnamon | 0.5 teaspoon cardamom |
 | ![Water](/img/water.jpg){:height="100px"} | ![Bicarb](/img/bicarb.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} |
-| 375 ml water | 0.75 teaspoons bicarb | 225g flour |
+| 40 ml water | 0.75 teaspoons bicarb | 250g flour |
 
 Method:
 1. Melt butter in a saucepan then remove from heat.
