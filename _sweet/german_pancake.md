@@ -19,4 +19,4 @@ Method:
 2. Put tin in oven so butter melts.
 3. Blend eggs, milk, flour and vanilla.
 4. Carefully pour mixture into hot, buttery tin.
-5. Bake for 25 minutes.
+5. Bake for 20-25 minutes.
