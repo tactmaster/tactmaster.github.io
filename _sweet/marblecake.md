@@ -6,7 +6,7 @@ image: /img/marblecake.jpg
 ---
 
 | ![Butter](/img/butter.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Plain flour](/img/flour.jpg){:height="100px"} |
-| 225 g butter | 225 sugar | 275 g plain flour |
+| 225 g butter | 225 g sugar | 275 g plain flour |
 | ![Baking powder](/img/bakingpowder.jpg){:height="100px"} | ![Eggs](/img/egg.jpg){:height="100px"} | ![Milk](/img/milk.jpg){:height="100px"} |
 | 1.5 tablespoons baking powder | 4 eggs | 2 tablespoons milk |
 | ![Vanilla](/img/vanilla.jpg){:height="100px"} | ![Cocoa powder](/img/cocoa.jpg){:height="100px"} | ![Water](/img/water.jpg){:height="100px"} |
