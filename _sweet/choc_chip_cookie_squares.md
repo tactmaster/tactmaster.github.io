@@ -19,5 +19,4 @@ Method:
 2. Add egg and whisk some more.
 3. Add flour, bicarb, baking powder and chocolate chips and mix some more.
 4. Squish the dough into a 30 x 40 cm baking tin lined with baking paper.
-
 5. Bake for around 15 minutes.
