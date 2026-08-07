@@ -18,7 +18,7 @@ For brownies
 
 For cookies
 
-| ![Butter](/img/butter.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Brown sugar](/img/brown sugar.jpg){:height="100px"} |
+| ![Butter](/img/butter.jpg){:height="100px"} | ![Sugar](/img/sugar.jpg){:height="100px"} | ![Brown sugar](/img/brownsugar.jpg){:height="100px"} |
 | 38 g butter | 1 tablespoon sugar | 2 tablespoons brown sugar |
 | ![Egg](/img/egg.jpg){:height="100px"} | ![Flour](/img/flour.jpg){:height="100px"} | ![Bicarb](/img/bicarb.jpg){:height="100px"} |
 | 1/8 egg | 3/4 dl flour | 1/8 teaspoon bicarb |
