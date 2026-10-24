@@ -23,7 +23,7 @@ Method:
 2. Beat in honey, vanilla extract and egg.
 3. Carefully whisk in flour, cinnamon, nutmeg, bicarb and salt.
 4. Whisk in oats and raisins.
-5. Cover bowl and refridgerate for 30 minutes.
+5. Cover bowl and refrigerate for 30 minutes.
 6. When ready to bake, set oven to 175°C.
 7. Scoop mixture into balls about 1.5 tablespoons and place 5 cm apart on baking tray.
 8. Bake for about 10 minutes until the tops are just set.

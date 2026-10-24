@@ -3,7 +3,6 @@ layout: recipes
 name: Waffles
 title: "Waffles"
 image: /img/waffles.jpg
-categories: sweet
 ---
 
 Ingredients:

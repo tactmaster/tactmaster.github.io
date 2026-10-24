@@ -14,11 +14,11 @@ image: /img/pepparkakor.jpg
 
 Method:
 1. Melt butter in a saucepan then remove from heat.
-2. Add sugar, syrup, ginger, cinnamon and cardmom.
+2. Add sugar, syrup, ginger, cinnamon and cardamom.
 3. Pour the butter mixture into a bowl and add water.
 4. Carefully mix in, a little at a time, the flour and bicarb.
 5. Work together into a dough.
 6. Put in a plastic bag and leave in the fridge to cool overnight.
 7. Heat oven to 180°C.
-10. Roll out dough and cut out shapes.
-11. Bake for 8-12 minutes depending on thickness and size. Watch carefully so they do not burn!
+8. Roll out dough and cut out shapes.
+9. Bake for 8-12 minutes depending on thickness and size. Watch carefully so they do not burn!

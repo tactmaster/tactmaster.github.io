@@ -3,7 +3,6 @@ layout: recipes
 name: Blueberry crumble for camping
 title: "Blueberry crumble for camping"
 image: /img/blueberrycrumble.jpg
-categories: sweet
 ---
 
 Ingredients:

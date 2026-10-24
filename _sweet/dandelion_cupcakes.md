@@ -30,5 +30,5 @@ Method:
 4. Gradually add alternately yoghurt & milk mixture and flour, bicarb and baking powder.
 5. Add lemon zest and dandelion petals and mix gently.
 6. Fill 12 cupcake cases.
-7. Bake for 20-25 minutes
+7. Bake for 20-25 minutes.
 8. While the cupcakes cook, beat together butter, lemon zest and icing sugar to make icing.
