@@ -14,5 +14,5 @@ Ingredients:
 
 Method:
 1. Peel and finely dice apple.
-2. Mix all ingredients together in a bowl.
+2. Mix all ingredients (flour, egg, baking powder, milk and apple) together in a bowl.
 3. Put splodges of about 1-2 tablespoons in a pan and fry.

@@ -27,6 +27,6 @@ Method:
 1. Mix together butter, sugar, eggs, flour, baking powder, bicarb and dark syrup.
 2. Gradually whisk in milk.
 3. Pour into a greased oven dish and bake for 35-40 minutes.
-4. For the sauce, put all the ingredients in a saucepan and stir over a low heat until sugar has dissolved and butter has melted.
+4. For the sauce, put all the ingredients (butter, sugar, dark syrup, cream and vanilla extract) in a saucepan and stir over a low heat until sugar has dissolved and butter has melted.
 5. Bring sauce to the boil and stir for about 1 minute.
 6. Pour half the sauce over the top of the pudding and serve the rest in a jug.

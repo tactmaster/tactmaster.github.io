@@ -15,7 +15,7 @@ Ingredients:
 | 180 ml hot water | 2 teaspoons rosemary |  |
 
 Method:
-1. Mix all ingredients together in a bowl.
+1. Mix all ingredients (oats, wholemeal flour, melted butter, hot water and rosemary) together in a bowl.
 2. Roll dough out to about 0.5 cm thick.
 3. Cut out oatcakes and put on a baking tray.
 4. Bake for 25 minutes.
