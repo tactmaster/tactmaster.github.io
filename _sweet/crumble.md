@@ -15,6 +15,6 @@ Ingredients:
 | 0.5 teaspoon cinnamon | 60 g butter |  |
 
 Method:
-1. Put all ingredients (oats, wholemeal flour, brown sugar, cinnamon and butter) in bowl and rub in.
+1. Put all ingredients in bowl and rub in.
 2. Put on top of some fruit in an oven dish.
 3. Bake for 25 minutes.

@@ -17,6 +17,6 @@ Ingredients:
 | flavourings: spices | fruit | or dried fruit |
 
 Method:
-1. Mix all ingredients (plain flour, wholemeal flour, baking powder, oil, milk, egg and flavourings) together.
+1. Mix all ingredients together.
 2. Spoon mixture into muffin cases.
 3. Bake for 12 minutes.

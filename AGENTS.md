@@ -62,7 +62,8 @@ If the recipe has separate parts (dough and filling, cake and icing), give each 
 
 - Numbered list, one main action per step, short imperative sentences starting with a verb: "Mix…", "Add…", "Roll out to 2 cm thick.", "Bake for 12 minutes."
 - Name every ingredient in the step that uses it, so it can be matched to its picture and none are missed. Don't write "all flours" or "the dry ingredients" — write "plain flour, rye flour and wholemeal flour".
-- Phrases like "all ingredients", "all other ingredients", "everything except…" or "the rest of the ingredients" are fine, but always follow them with the ingredients in brackets: "Mix with all other brownie ingredients (egg, sugar, flour, baking powder, cocoa powder and vanilla)."
+- "Mix all ingredients together" (or "all the sauce ingredients", "everything") is fine when every ingredient in the recipe, or in that part of it, goes in at once. No list is needed.
+- When there are exceptions — "all other ingredients", "everything except…", "the rest of the ingredients" — follow the phrase with the ingredients in brackets so none are missed: "Mix with all other brownie ingredients (egg, sugar, flour, baking powder, cocoa powder and vanilla)."
 - Give times, sizes and quantities in the step: "leave to rise for 30 minutes", "split into 8 rolls", "about 0.5 cm thick", "a 20 cm cake tin".
 - Use simple cues for when something is ready: "until it bubbles", "until light and fluffy", "until it is not sticky anymore".
 - End each step with a full stop. The last step is usually the bake time.

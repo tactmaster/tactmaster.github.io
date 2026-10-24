@@ -12,7 +12,7 @@ Ingredients:
 | 550 ml milk | 2 eggs | 225 g flour |
 
 Method:
-1. Mix all ingredients (milk, eggs and flour) with stick blender.
+1. Mix all ingredients with stick blender.
 2. Heat frying pan on 7 on our hob.
 3. Brush a small amount of oil round the frying pan.
 4. Ladle some mixture into the pan and shoogle to cover the bottom of the pan.

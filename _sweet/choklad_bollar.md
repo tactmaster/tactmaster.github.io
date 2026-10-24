@@ -11,6 +11,6 @@ image: /img/chokladbollar.jpg
 | 2 ml vanilla extract | 1 tablespoon water | 70 g oats |
 
 Method:
-1. Mix everything (butter, sugar, cocoa powder, vanilla extract, water and oats).
+1. Mix everything.
 2. Roll into balls and coat in coconut, sprinkles, etc.
 3. Put in fridge for at least 10 minutes to set.
