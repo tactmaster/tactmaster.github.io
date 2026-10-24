@@ -16,7 +16,7 @@ Method:
 1. Put water in a bowl.
 2. Add yeast and stir well.
 3. Add oats, stir in and leave to stand for 5 minutes.
-4. Knead in all flours, salt and oil.
+4. Knead in plain flour, rye flour, wholemeal flour, salt and oil.
 5. Cover and leave to rise for 30 minutes.
 6. Coat in flour and split into 8 rolls.
 7. Put rolls on baking tray, cover and leave to rise for 30 minutes.
