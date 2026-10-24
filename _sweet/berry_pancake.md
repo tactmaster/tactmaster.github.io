@@ -20,7 +20,7 @@ Method:
 1. Put butter in tin.
 2. Put tin in oven so butter melts.
 3. Mix ricotta, eggs, milk and sugar together.
-4. Add melted butter, flour and baking power.
+4. Add melted butter, flour and baking powder.
 5. Pour mixture into hot tin.
 6. Scatter over berries.
 7. Bake for 25-30 minutes.

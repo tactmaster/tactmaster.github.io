@@ -23,7 +23,7 @@ For filling and topping:
 
 Method:
 1. Put yeast into milk and stir until it dissolves.
-2. Knead milk & yeast with  butter, sugar, cardamom, salt and flour for 10 minutes with a dough hook.
+2. Knead milk & yeast with butter, sugar, cardamom, salt and flour for 10 minutes with a dough hook.
 3. Cover and leave to rise for 40 minutes.
 4. Meanwhile, mix butter, sugar and cinnamon to make the filling.
 5. When dough has risen, roll out into a large rectangle and spread the filling over it.
