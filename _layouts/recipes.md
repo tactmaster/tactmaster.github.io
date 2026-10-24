@@ -17,6 +17,8 @@ layout: default
     {{ content }}
   </div>
 
+  <p><a href="https://github.com/tactmaster/tactmaster.github.io/edit/main/{{ page.path }}">✏️ Edit this recipe on GitHub</a></p>
+
 </article>
 
 
