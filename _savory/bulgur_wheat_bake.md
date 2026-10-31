@@ -9,7 +9,7 @@ Preheat oven to 200°C
 
 Ingredients:
 
-| ![Vegetable stock](/img/vegetablestock.jpg "Photo: Rainer Zenz, CC BY-SA 3.0"){:height="100px"} | ![Water](/img/water.jpg){:height="100px"} | ![Spinach](/img/spinach.jpg "Photo: HaJunkiyada, CC BY-SA 4.0"){:height="100px"} |
+| ![Vegetable stock](/img/vegetablestock.jpg){:height="100px"} | ![Water](/img/water.jpg){:height="100px"} | ![Kale](/img/kale.jpg){:height="100px"} |
 | Vegetable stock | 450 ml water | Frozen chopped spinach or kale |
 | ![Broccoli](/img/broccoli.jpg){:height="100px"} | ![Bulgur wheat](/img/bulgurwheat.jpg){:height="100px"} | ![Mozzarella](/img/mozzarella.jpg){:height="100px"} |
 | Frozen broccoli | 160 g bulgur wheat | Mozzarella |
