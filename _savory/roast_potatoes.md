@@ -2,7 +2,7 @@
 layout: recipes
 name: Roast Potatoes
 title: "Roast Potatoes"
-image: /img/confusedchef.jpg
+image: /img/roastpotatoes.jpg
 ---
 
 Preheat oven to 180°C
