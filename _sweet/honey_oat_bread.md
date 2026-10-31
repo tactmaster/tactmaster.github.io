@@ -16,7 +16,7 @@ Ingredients:
 
 Method:
 1. Gently heat milk and butter until the butter just melts.
-2. Mix together with all other ingredients.
+2. Mix together with *all other ingredients* (bread flour, oats, yeast, salt, lukewarm water and honey).
 3. Knead for 6-8 minutes. It should not be *too* sticky and may need more flour.
 4. Put the dough in an oiled bowl, cover with a towel and leave for about 1 hour.
 5. Transfer dough to a loaf tin and again, leave to rise for about 1 hour.
