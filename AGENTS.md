@@ -7,11 +7,13 @@ This is a family recipe book. Recipes are cooked by a parent together with young
 - Write the way a parent in a British (Scottish) family living in Sweden would talk in the kitchen: friendly, plain, a bit playful.
 - British spelling and words: colour, yoghurt, icing sugar, bicarb, baking tray, clingfilm, tin, hob.
 - Light, informal words are welcome where they fit: "squish", "splodges", "shoogle", "dollop", "blobs".
-- An occasional short aside or warning with an exclamation mark is fine: "(it will be really sticky!)", "Watch carefully so they do not burn!", "Eat excess mixtures!". Use one or two per recipe at most.
+- An occasional short aside with an exclamation mark is fine if it came from the family: "(it will be really sticky!)", "Eat excess mixtures!". Use one or two per recipe at most.
+- Don't add safety warnings ("carefully", "it will spit!") or explain the obvious ("so the oil gets hot", "it will be hot by then"). Say what to do and stop.
 - Use real kitchen equipment the family has where it matters: "a square glass Ikea box", "a stick blender", "a waffle iron".
 - Swedish bakes keep their Swedish names (kanelbullar, lussebullar, kladdkaka, pepparkakor, bullar).
 - Assume the adult knows basic techniques (rub in, cream, fold, knead, prove). Don't explain them.
 - Keep it short. No introduction, story, nutrition info or serving suggestions beyond a few words.
+- Name equipment properly: "roasting tin", "cake tin", "loaf tin" — not just "tin".
 
 ## File and front matter
 
