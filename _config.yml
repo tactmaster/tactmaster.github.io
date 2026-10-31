@@ -51,6 +51,7 @@ exclude:
   - AGENTS.md
   - CLAUDE.md
   - README.md
+  - img/CREDITS.md
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
