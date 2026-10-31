@@ -1,0 +1,5 @@
+{%- comment -%}
+Shows a phrase like "all other ingredients" with a popup listing the ingredients.
+Usage: {% include ingredients.html text="all other ingredients" list="egg, sugar and flour" %}
+{%- endcomment -%}
+<button type="button" class="ingredient-list" aria-label="{{ include.text }}: {{ include.list }}">{{ include.text }}<span class="ingredient-list-popup" aria-hidden="true">{{ include.list }}</span></button>

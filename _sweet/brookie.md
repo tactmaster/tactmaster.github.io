@@ -27,7 +27,7 @@ For cookies
 
 Method:
 1. Melt butter and chocolate for brownies together.
-2. Mix with all other brownie ingredients (egg, sugar, flour, baking powder, cocoa powder and vanilla).
+2. Mix with {% include ingredients.html text="all other brownie ingredients" list="egg, sugar, flour, baking powder, cocoa powder and vanilla" %}.
 3. Mix all cookie ingredients together.
 4. Line a square glass Ikea box with baking paper.
 5. Pour in most of the brownie batter (leave some left over) then squish most of the cookie dough on top (leave some left over). Eat excess mixtures!

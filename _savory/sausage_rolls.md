@@ -15,7 +15,7 @@ Preheat oven to 180°C
 | 1.5 teaspoons nutmeg | 2 packs puff pastry | 1 beaten egg |
 
 Method:
-1. Mix everything except puff pastry and egg (pork mince, breadcrumbs, salt, black pepper, coriander, sage leaves and nutmeg).
+1. Mix {% include ingredients.html text="everything except puff pastry and egg" list="pork mince, breadcrumbs, salt, black pepper, coriander, sage leaves and nutmeg" %}.
 2. Put mixture onto puff pastry.
 3. Roll up and cut into sausage rolls.
 4. Brush tops with beaten egg.
