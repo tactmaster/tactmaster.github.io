@@ -63,11 +63,13 @@ If the recipe has separate parts (dough and filling, cake and icing), give each 
 - Numbered list, one main action per step, short imperative sentences starting with a verb: "Mix…", "Add…", "Roll out to 2 cm thick.", "Bake for 12 minutes."
 - Name every ingredient in the step that uses it, so it can be matched to its picture and none are missed. Don't write "all flours" or "the dry ingredients" — write "plain flour, rye flour and wholemeal flour".
 - "Mix all ingredients together" (or "all the sauce ingredients", "everything") is fine when every ingredient in the recipe, or in that part of it, goes in at once. No list is needed.
-- When there are exceptions — "all other ingredients", "everything except…", "the rest of the ingredients" — wrap the phrase in the `ingredients.html` include so the list pops up on hover (or tap on a phone) and none are missed:
+- When there are exceptions — "all other ingredients", "everything except…", "the rest of the ingredients" — put the phrase in `*stars*` and the ingredients in brackets straight after it, so none are missed. On the site the list pops up when you hover over (or tap) the phrase:
 
 ```
-2. Mix with {% include ingredients.html text="all other brownie ingredients" list="egg, sugar, flour, baking powder, cocoa powder and vanilla" %}.
+2. Mix with *all other brownie ingredients* (egg, sugar, flour, baking powder, cocoa powder and vanilla).
 ```
+
+- Only use `*stars*` followed by brackets for this. Plain `*emphasis*` is fine anywhere else.
 - Give times, sizes and quantities in the step: "leave to rise for 30 minutes", "split into 8 rolls", "about 0.5 cm thick", "a 20 cm cake tin".
 - Use simple cues for when something is ready: "until it bubbles", "until light and fluffy", "until it is not sticky anymore".
 - End each step with a full stop. The last step is usually the bake time.

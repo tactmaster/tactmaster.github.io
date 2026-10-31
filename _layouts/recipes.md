@@ -29,6 +29,28 @@ layout: default
   }
 </style>
 <script>
+  // Turn "*all other ingredients* (egg, sugar and flour)" in a method step into
+  // a dotted phrase whose ingredient list pops up on hover or tap.
+  document.querySelectorAll('.post-content li em').forEach(function (em) {
+    var next = em.nextSibling;
+    if (!next || next.nodeType !== Node.TEXT_NODE) return;
+    var match = next.textContent.match(/^\s*\(([^)]*)\)/);
+    if (!match) return;
+    next.textContent = next.textContent.slice(match[0].length);
+
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'ingredient-list';
+    button.setAttribute('aria-label', em.textContent + ': ' + match[1]);
+    button.textContent = em.textContent;
+    var popup = document.createElement('span');
+    popup.className = 'ingredient-list-popup';
+    popup.setAttribute('aria-hidden', 'true');
+    popup.textContent = match[1];
+    button.appendChild(popup);
+    em.replaceWith(button);
+  });
+
   // Tap (or click) a dotted phrase to show its ingredients; tap anywhere else to hide.
   document.addEventListener('click', function (event) {
     var clicked = event.target.closest('.ingredient-list');

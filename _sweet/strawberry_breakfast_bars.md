@@ -15,7 +15,7 @@ Preheat oven to 175°C
 | Chopped strawberries |  |  |
 
 Method:
-1. Mix {% include ingredients.html text="all ingredients except strawberries" list="melted butter, vanilla, wholemeal flour, oats, honey and cinnamon" %} in a bowl.
+1. Mix *all ingredients except strawberries* (melted butter, vanilla, wholemeal flour, oats, honey and cinnamon) in a bowl.
 2. Line 2 square glass boxes with baking parchment.
 3. Spread about 2/3 of the mixture into the boxes.
 4. Cover with chopped strawberries.
