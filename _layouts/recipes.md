@@ -20,7 +20,7 @@ layout: default
 </article>
 
 <style>
-  .ingredient-list { position: relative; font: inherit; color: inherit; background: none; border: 0; border-bottom: 2px dotted #c9a227; padding: 0; cursor: help; }
+  .ingredient-list { position: relative; font: inherit; color: inherit; background: none; border: 0; border-bottom: 2px solid #000; padding: 0; cursor: help; }
   .ingredient-list-popup { display: none; position: absolute; left: 0; top: 100%; z-index: 10; width: max-content; max-width: min(18em, 80vw); margin-top: 4px; padding: 0.4em 0.7em; background: #fff8e1; border: 1px solid #e0c97f; border-radius: 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); font-size: 0.9em; text-align: left; white-space: normal; }
   .ingredient-list.open .ingredient-list-popup,
   .ingredient-list:focus-visible .ingredient-list-popup { display: block; }
@@ -30,7 +30,7 @@ layout: default
 </style>
 <script>
   // Turn "*all other ingredients* (egg, sugar and flour)" in a method step into
-  // a dotted phrase whose ingredient list pops up on hover or tap.
+  // an underlined phrase whose ingredient list pops up on hover or tap.
   document.querySelectorAll('.post-content li em').forEach(function (em) {
     var next = em.nextSibling;
     if (!next || next.nodeType !== Node.TEXT_NODE) return;
@@ -51,7 +51,7 @@ layout: default
     em.replaceWith(button);
   });
 
-  // Tap (or click) a dotted phrase to show its ingredients; tap anywhere else to hide.
+  // Tap (or click) an underlined phrase to show its ingredients; tap anywhere else to hide.
   document.addEventListener('click', function (event) {
     var clicked = event.target.closest('.ingredient-list');
     document.querySelectorAll('.ingredient-list.open').forEach(function (el) {
