@@ -2,7 +2,7 @@
 layout: recipes
 name: Bulgur Wheat Bake
 title: "Bulgur Wheat Bake"
-image: /img/confusedchef.jpg
+image: /img/bulgurwheatbake.jpg
 ---
 
 Preheat oven to 200°C
